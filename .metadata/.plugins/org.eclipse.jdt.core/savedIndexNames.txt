@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\1AW3-19\Desktop\reto\.metadata\.plugins\org.eclipse.jdt.core
+3181391518.index
+2228818924.index
+1865797976.index
