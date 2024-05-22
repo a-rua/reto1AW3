@@ -21,6 +21,9 @@ import javax.swing.JTextField;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.SwingConstants;
+
+import objetos.persona;
+
 import java.awt.Font;
 
 import javax.imageio.ImageIO;

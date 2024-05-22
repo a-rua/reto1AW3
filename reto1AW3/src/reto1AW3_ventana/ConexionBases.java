@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
+import objetos.persona;
+
 public class ConexionBases {
 
 	private static Connection conexion() {
@@ -45,7 +47,6 @@ public class ConexionBases {
 				String contrasena = rs.getString("contrasena");
 
 				persona p = new persona(DNI, nombre, apellido, rol, mail, telefono, contrasena);
-				System.out.println(p);
 				ListaUsuarios.add(p);
 			}
 

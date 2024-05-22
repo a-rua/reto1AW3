@@ -1,4 +1,4 @@
-package reto1AW3_ventana;
+package objetos;
 
 public class persona {
 	
